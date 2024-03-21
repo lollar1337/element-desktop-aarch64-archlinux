@@ -1,7 +1,7 @@
 # Maintainer: Anagastes
 
 pkgname=element-desktop-deb-package
-pkgver=1.11.60
+pkgver=1.11.61
 pkgrel=1
 pkgdesc="All-in-one secure chat app for teams, friends and organisations (stable .deb build)."
 arch=('aarch64')
